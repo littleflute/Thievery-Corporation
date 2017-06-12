@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Menina Flor.mp3";		
+f[2]	= "02 Chove Chuva.mp3";		
+f[3]	= "03 OGD (Road Song).mp3";		
+f[4]	= "04 Hard Latin.mp3";		
+f[5]	= "05 The Fakir.mp3";		
+f[6]	= "06 Something Else Again.mp3";		
+f[7]	= "07 Light My Fire.mp3";		
+f[8]	= "08 Bala Com Bala.mp3";		
+f[9]	= "09 Batucada.mp3";		
+f[10]	= "10 Samba Triste.mp3";		
+f[11]	= "11 Cuchy Frito Man.mp3";		
+f[12]	= "12 Lisa.mp3";		
+f[13]	= "13 For Mods Only.mp3";		
+f[14]	= "14 Escapade.mp3";		
+f[15]	= "15 Do It the Hard Way.mp3";		
